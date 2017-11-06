@@ -1,6 +1,15 @@
-
-#contenedor {
-    height: 100%;
-    width: 100%;
+body {
     background-image: url("espacio.jpeg");
+    background-repeat: repeat;
+    background-size: contain;
+    height: 90%;
+    width: 98%;
+    color: white;
+    margin-left: 10px;
+    font: 1.75em verdana,arial,'sans serif';
+    text-align: justify;
+}
+h1{
+    color:lightyellow;
+    font-size: 300%;
 }
