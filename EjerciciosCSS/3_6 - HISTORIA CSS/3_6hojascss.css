@@ -1,0 +1,18 @@
+body {
+    background-color: lightcoral;
+        font: 0.75em verdana,arial,'sans serif';
+}
+h1 {
+    background-color: lightblue;
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+h2 {
+    background-color: lightblue;
+    text-align: left;
+    color: blue;  
+}
+span {
+    background-color: purple;
+}
