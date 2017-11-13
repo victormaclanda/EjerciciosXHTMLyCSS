@@ -1,5 +1,5 @@
 body {
-    background-color: lightcoral;
+    background-color: #ff8080;
         font: 0.75em verdana,arial,'sans serif';
 }
 h1 {
@@ -15,4 +15,12 @@ h2 {
 }
 span {
     background-color: purple;
+}
+strong{
+    background-color: aquamarine;
+}
+p{
+    text-align: justify;
+    margin-left: 32px;
+    margin-right: 32px;
 }
